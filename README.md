@@ -1,7 +1,7 @@
 # Wine-Quality-Parallel-Computing
 Wine Quality Prediction 
 Parallel Machine Learning on AWS
--	Sai Dhiren Musaloji
+
 Goal
 The purpose of this individual assignment is to develop parallel machine learning (ML) applications in the Amazon AWS cloud platform. The objectives are:
 1.	To train an ML model in parallel on multiple EC2 instances using Apache Spark.
